@@ -1,0 +1,19 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant744/CRUD.git"
+  },
+  "author": "Prashant Dhote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant744/CRUD/issues"
+  },
+  "homepage": "https://github.com/prashant744/CRUD#readme"
+}
