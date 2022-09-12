@@ -7,5 +7,5 @@ mongoose
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
-  .then(() => console.log("connection start"))
+  .then(() => console.log("MONGODB connection start"))
   .catch((error) => console.log(error.message));
